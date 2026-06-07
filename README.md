@@ -1,5 +1,6 @@
 ## Hi there 👋
-##I'm Shubham Bhavar,
+
+I'm Shubham Bhavar,
 
 🎓 Computer Engineering Student
 
