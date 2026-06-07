@@ -54,7 +54,7 @@ Database design and SQL query projects covering joins, subqueries, views, and mo
 
 ## 🌐 Coding Profiles
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
+🔗 GitHub: https://github.com/Shubham-Bhavar
 
 🔗 HackerRank: https://www.hackerrank.com/profile/shubhambhavar108
 
