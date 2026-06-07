@@ -56,11 +56,11 @@ Database design and SQL query projects covering joins, subqueries, views, and mo
 
 🔗 GitHub: https://github.com/Shubham-Bhavar
 
-🔗 HackerRank: https://www.hackerrank.com/profile/shubhambhavar108
+🔗 HackerRank: https://www.hackerrank.com/profile/Shubham_Bhavar
 
 🔗 LeetCode: https://leetcode.com/u/Shubham-Bhavar/
 
-🔗 LinkedIn: https://www.linkedin.com/in/shubham-bhavar-a1590a403/
+🔗 LinkedIn: https://www.linkedin.com/in/shubhambhavar-/
 
 🔗 ORCID: https://orcid.org/0009-0001-1169-6512
 
