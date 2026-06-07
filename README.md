@@ -60,7 +60,7 @@ Database design and SQL query projects covering joins, subqueries, views, and mo
 
 🔗 LeetCode: https://leetcode.com/u/Shubham-Bhavar/
 
-🔗 LinkedIn: https://www.linkedin.com/in/shubham-bhavar/
+🔗 LinkedIn: https://www.linkedin.com/in/shubham-bhavar-a1590a403/
 
 🔗 ORCID: https://orcid.org/0009-0001-1169-6512
 
