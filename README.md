@@ -1,16 +1,75 @@
 ## Hi there 👋
+##I'm Shubham Bhavar,
 
-<!--
-**Shubham-Bhavar/Shubham-Bhavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Problem Solving, and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Full Stack Development and strengthening my skills in Data Structures & Algorithms.
+
+🚀 I enjoy building projects, exploring new technologies, and continuously improving my programming skills.
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Currently Working On
+
+- Full Stack Development
+- Data Structures & Algorithms
+- Java Projects
+- SQL Projects
+- Web Development Projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🎁 GiftGenius Website
+A responsive gift recommendation website designed using HTML, CSS, and JavaScript.
+
+### 💎 Jewellery Homepage Design
+Modern and responsive jewellery website landing page.
+
+### 🔐 Password Strength Checker
+A C-based project that evaluates password strength using various security parameters.
+
+### ☕ HackerRank Java Solutions
+Collection of Java solutions for HackerRank coding challenges.
+
+### 🗄️ MySQL Projects
+Database design and SQL query projects covering joins, subqueries, views, and more.
+
+---
+
+## 🌐 Coding Profiles
+
+🔗 GitHub: https://github.com/YOUR_USERNAME
+
+🔗 HackerRank: https://www.hackerrank.com/profile/shubhambhavar108
+
+🔗 LeetCode: https://leetcode.com/u/Shubham-Bhavar/
+
+🔗 ORCID: https://orcid.org/0009-0001-1169-6512
+
+---
+
+## 📈 Goals
+
+- Become a Full Stack Developer
+- Master Data Structures & Algorithms
+- Contribute to Open Source Projects
+- Build Real-World Applications
+
+---
+
+⭐ Always learning, building, and growing.
