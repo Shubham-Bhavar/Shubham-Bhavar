@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Shubham Bhavar,
 
@@ -20,6 +20,7 @@ I'm Shubham Bhavar,
 - CSS3
 - JavaScript
 - Git & GitHub
+- C Programming
 
 ---
 
@@ -44,11 +45,18 @@ Modern and responsive jewellery website landing page.
 ### 🔐 Password Strength Checker
 A C-based project that evaluates password strength using various security parameters.
 
-### ☕ HackerRank Java Solutions
-Collection of Java solutions for HackerRank coding challenges.
+---
 
-### 🗄️ MySQL Projects
-Database design and SQL query projects covering joins, subqueries, views, and more.
+## 📂 Featured Repositories
+
+## ☕ Java LeetCode Solutions
+Collection of LeetCode problems solved in Java with optimized and well-structured solutions.
+
+## 💻 HackerRank Java Solutions
+Java solutions for HackerRank challenges covering data structures, algorithms, and problem-solving concepts.
+
+## 🗄️ MySQL Projects
+Database projects, SQL queries, and data analysis tasks demonstrating database management and query optimization skills.
 
 ---
 
