@@ -49,13 +49,13 @@ A C-based project that evaluates password strength using various security parame
 
 ## 📂 Featured Repositories
 
-## ☕ Java LeetCode Solutions
+### ☕ Java LeetCode Solutions
 Collection of LeetCode problems solved in Java with optimized and well-structured solutions.
 
-## 💻 HackerRank Java Solutions
+### 💻 HackerRank Java Solutions
 Java solutions for HackerRank challenges covering data structures, algorithms, and problem-solving concepts.
 
-## 🗄️ MySQL Projects
+### 🗄️ MySQL Projects
 Database projects, SQL queries, and data analysis tasks demonstrating database management and query optimization skills.
 
 ---
