@@ -44,6 +44,8 @@ Modern and responsive jewellery website landing page.
 
 ### 🔐 Password Strength Checker
 A C-based project that evaluates password strength using various security parameters.
+### 🔎 Multi-Modal Evidence Review
+An AI-powered system that analyzes and correlates multiple forms of evidence, including images, documents, and structured data, to provide comprehensive insights and support informed decision-making.
 
 ---
 
