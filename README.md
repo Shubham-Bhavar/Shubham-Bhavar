@@ -40,7 +40,7 @@ I'm Shubham Bhavar,
 A responsive gift recommendation website designed using HTML, CSS, and JavaScript.
 
 ### 🔎 Multi-Modal Evidence Review
-An AI-powered system that analyzes and correlates multiple forms of evidence, including images, documents, and structured data, to provide comprehensive insights and support informed decision-making.
+A multi-modal AI solution that evaluates photo evidence to detect, classify, and validate laptop and vehicle damage claims.
 
 ### 💎 Jewellery Homepage Design
 Modern and responsive jewellery website landing page.
