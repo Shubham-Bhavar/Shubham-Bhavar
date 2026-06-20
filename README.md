@@ -34,25 +34,24 @@
 
 <p>
   <a href="https://github.com/Shubham-Bhavar">
-    <img src="https://img.icons8.com/ios-glyphs/20/000000/github.png"/> GitHub
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub
   </a>
   <br><br>
   
   <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
-    <img src="https://img.icons8.com/color/20/hackerrank.png"/> HackerRank
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/> HackerRank
   </a>
   <br><br>
   
   <a href="https://leetcode.com/u/Shubham-Bhavar/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> LeetCode
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="20"/> LeetCode
   </a>
   <br><br>
   
   <a href="https://www.linkedin.com/in/shubhambhavar-/">
-    <img src="https://img.icons8.com/color/20/linkedin.png"/> LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
   </a>
 </p>
-
 ---
 
 ## 🎯 Goals
