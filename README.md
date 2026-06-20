@@ -33,7 +33,7 @@
 ## 🌐 Profiles
 
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png"/> GitHub: https://github.com/Shubham-Bhavar  
+  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" font size="20px"/> GitHub: https://github.com/Shubham-Bhavar  
   <br>
   <img src="https://img.icons8.com/color/20/hackerrank.png"/> HackerRank: https://www.hackerrank.com/profile/Shubham_Bhavar  
   <br>
