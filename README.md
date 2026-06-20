@@ -32,8 +32,6 @@
 
 ## 🌐 Profiles
 
-## 🌐 Profiles
-
 <p>
   <a href="https://github.com/Shubham-Bhavar">
     <img src="https://img.icons8.com/ios-glyphs/20/000000/github.png"/> GitHub
