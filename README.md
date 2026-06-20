@@ -32,14 +32,27 @@
 
 ## 🌐 Profiles
 
+## 🌐 Profiles
+
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" font size="20px"/> GitHub: https://github.com/Shubham-Bhavar  
-  <br>
-  <img src="https://img.icons8.com/color/20/hackerrank.png"/> HackerRank: https://www.hackerrank.com/profile/Shubham_Bhavar  
-  <br>
-  <img src="https://img.icons8.com/color/20/leetcode.png"/> LeetCode: https://leetcode.com/u/Shubham-Bhavar/  
-  <br>
-  <img src="https://img.icons8.com/color/20/linkedin.png"/> LinkedIn: https://www.linkedin.com/in/shubhambhavar-/  
+  <a href="https://github.com/Shubham-Bhavar">
+    <img src="https://img.icons8.com/ios-glyphs/20/000000/github.png"/> GitHub
+  </a>
+  <br><br>
+  
+  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
+    <img src="https://img.icons8.com/color/20/hackerrank.png"/> HackerRank
+  </a>
+  <br><br>
+  
+  <a href="https://leetcode.com/u/Shubham-Bhavar/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/20/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/> LeetCode
+  </a>
+  <br><br>
+  
+  <a href="https://www.linkedin.com/in/shubhambhavar-/">
+    <img src="https://img.icons8.com/color/20/linkedin.png"/> LinkedIn
+  </a>
 </p>
 
 ---
