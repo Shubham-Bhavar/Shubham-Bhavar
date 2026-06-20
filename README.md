@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  ⭐ Building • Learning • Growing 🚀
+  ⭐ Dream • Believe • Achieve 🚀
 </p>
