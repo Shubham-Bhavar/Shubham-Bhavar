@@ -33,7 +33,7 @@
 ## 🌐 Profiles
 
 <p>
-  <img src="https://img.icons8.com/ios-filled/20/000000/github.png"/> GitHub: https://github.com/Shubham-Bhavar  
+  <img src="[https://img.icons8.com/ios-filled/20/000000/github.png](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)"/> GitHub: https://github.com/Shubham-Bhavar  
   <br>
   <img src="https://img.icons8.com/color/20/hackerrank.png"/> HackerRank: https://www.hackerrank.com/profile/Shubham_Bhavar  
   <br>
@@ -53,4 +53,4 @@
 
 ---
 
-**Build • Learn • Repeat 🚀**
+**⭐ Dream • Believe • Achieve 🚀**
