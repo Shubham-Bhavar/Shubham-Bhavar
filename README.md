@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavar</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 ---
 
@@ -55,5 +55,5 @@
 
 ---
 <p align = "center">
-**⭐ Dream • Believe • Achieve 🚀**
+⭐ **Dream • Believe • Achieve** 🚀
 </p>
