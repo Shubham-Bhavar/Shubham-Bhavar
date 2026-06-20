@@ -33,23 +33,23 @@
 ## 🌐 Profiles
 
 <p>
-  <a href="https://github.com/Shubham-Bhavar"style="vertical-align:middle;">
+  <a href="https://github.com/Shubham-Bhavar">
     <img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png" style="vertical-align:middle;"/> <span style="vertical-align:middle;">GitHub</span>
   </a>
   <br><br>
 
-  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar" style="vertical-align:middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/> HackerRank
+  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"style="vertical-align:middle;/> HackerRank
   </a>
   <br><br>
   
-  <a href="https://leetcode.com/u/Shubham-Bhavar/" style="vertical-align:middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="20"/> LeetCode
+  <a href="https://leetcode.com/u/Shubham-Bhavar/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="20"style="vertical-align:middle;/> LeetCode
   </a>
   <br><br>
   
-  <a href="https://www.linkedin.com/in/shubhambhavar-/" style="vertical-align:middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
+  <a href="https://www.linkedin.com/in/shubhambhavar-/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"style="vertical-align:middle;/> LinkedIn
   </a>
 </p>
 
