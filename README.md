@@ -54,5 +54,6 @@
 </p>
 
 ---
-
+<p align = "center">
 **⭐ Dream • Believe • Achieve 🚀**
+</p>
