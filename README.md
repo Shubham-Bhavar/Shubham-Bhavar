@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavar</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 ---
 
@@ -32,28 +32,35 @@
 
 ## 🌐 Profiles
 
-<p>
+<p align="center">
   <a href="https://github.com/Shubham-Bhavar">
-    <img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png" style="vertical-align:middle;"/> <span style="vertical-align:middle;">GitHub</span>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <br><br>
-
+  
   <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"style="vertical-align:middle;/> HackerRank
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <br><br>
   
   <a href="https://leetcode.com/u/Shubham-Bhavar/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="20"style="vertical-align:middle;/> LeetCode
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <br><br>
   
   <a href="https://www.linkedin.com/in/shubhambhavar-/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"style="vertical-align:middle;/> LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
-<p align = "center">
-⭐ Dream • Believe • Achieve 🚀
+
+## 🎯 Goals
+
+- Become a Full Stack Developer  
+- Improve Data Structures & Algorithms  
+- Build real-world projects  
+- Contribute to Open Source  
+
+---
+
+<p align="center">
+  🚀 Build • Learn • Repeat
 </p>
