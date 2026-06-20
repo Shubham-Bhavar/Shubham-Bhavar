@@ -39,17 +39,17 @@
   <br><br>
 
   <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
-    <img src="https://img.icons8.com/color/20/hackerrank.png" style="vertical-align:middle;"/> <span style="vertical-align:middle;">HackerRank</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/> HackerRank
   </a>
   <br><br>
-
+  
   <a href="https://leetcode.com/u/Shubham-Bhavar/">
-    <img src="https://img.icons8.com/color/20/leetcode.png" style="vertical-align:middle;"/> <span style="vertical-align:middle;">LeetCode</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="20"/> LeetCode
   </a>
   <br><br>
-
+  
   <a href="https://www.linkedin.com/in/shubhambhavar-/">
-    <img src="https://img.icons8.com/color/20/linkedin.png" style="vertical-align:middle;"/> <span style="vertical-align:middle;">LinkedIn</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn
   </a>
 </p>
 
