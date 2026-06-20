@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavar</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 ---
 
@@ -29,25 +29,17 @@
 - **QuoteVerse** – AI-based quote generator  
 
 ---
-
+  
 ## 🌐 Profiles
 
 <p align="center">
-  <a href="https://github.com/Shubham-Bhavar">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  
-  <a href="https://leetcode.com/u/Shubham-Bhavar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shubhambhavar-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://github.com/Shubham-Bhavar" style="color:#ffffff; text-decoration:none; font-weight:500;">GitHub</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar" style="color:#2EC866; text-decoration:none; font-weight:500;">HackerRank</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shubham-Bhavar/" style="color:#FFA116; text-decoration:none; font-weight:500;">LeetCode</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shubhambhavar-/" style="color:#0A66C2; text-decoration:none; font-weight:500;">LinkedIn</a>
 </p>
 
 ---
