@@ -1,132 +1,67 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavar</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | 💡 AI-Augmented Builder</h3>
+<h3 align="center">Aspiring Full Stack Developer | AI-Augmented Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Bhavar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Prompt+Engineering+Enthusiast;Building+with+AI&center=true&width=450&height=40&color=00F7FF&vCenter=true&pause=1000">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shubham-Bhavar" alt="GitHub streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
-
----
-
-# Hi there 👋
-
-I'm Shubham Bhavar,
-
-🎓 Computer Engineering Student  
-💻 Passionate about Software Development, Problem Solving, and Web Technologies  
-🌱 Currently learning Full Stack Development and strengthening my skills in Data Structures & Algorithms  
-🚀 I enjoy building projects, exploring new technologies, and continuously improving my programming skills  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Building projects using modern technologies & AI tools  
-- 🧠 Exploring Prompt Engineering & AI-Augmented Development  
-- 🎯 Focused on becoming a Full Stack Developer  
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about Software Development & Problem Solving  
+- 🌱 Learning Full Stack Development & Data Structures  
+- ⚡ Building projects using AI-Augmented Development  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech
 
-- Java
-- MySQL
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- C Programming
-- Prompt Engineering
-- AI-Augmented Development
+- Java • MySQL • HTML • CSS • JavaScript  
+- Git & GitHub • C Programming  
+- Prompt Engineering • AI-Augmented Development  
 
 ---
 
-## 📚 Currently Working On
+## 🚀 Projects
 
-- Full Stack Development  
-- Data Structures & Algorithms  
-- Java Projects  
-- SQL Projects  
-- Web Development Projects  
-
----
-
-## 🚀 Featured Projects
-
-### 🎁 GiftGenius Website
-A responsive gift recommendation website designed using HTML, CSS, and JavaScript.
-
-### 🔎 Multi-Modal Evidence Review
-A multi-modal AI solution that evaluates photo evidence to detect, classify, and validate laptop and vehicle damage claims.
-
-### 💎 Jewellery Homepage Design
-Modern and responsive jewellery website landing page.
-
-### 🔐 Password Strength Checker
-A C-based project that evaluates password strength using various security parameters.
-
-### 🌟 QuoteVerse
-A quote generator web app built using AI tools like Replit, Claude, and Codex as part of a prompt engineering project.
+- 🎁 **GiftGenius Website** – Responsive gift recommendation website  
+- 🔎 **Multi-Modal Evidence Review** – AI-based damage detection system  
+- 💎 **Jewellery Homepage Design** – Modern responsive UI  
+- 🔐 **Password Strength Checker** – C-based security checker  
+- 🌟 **QuoteVerse** – Quote generator built using AI tools  
 
 ---
 
-## 🧠 Skills Gained
- 
-- Java Programming  
-- MySQL & Database Management
-- Problem Solving & Logical Thinking
-- AI-Augmented Problem Solving 
-- HTML, CSS & JavaScript Development
-- C Programming  
-- Prompt Engineering
-- Git & GitHub Version Control 
-- Understanding AI-generated Code  
-- AI Tool Usage (Claude, Replit, Codex)  
-- Git & GitHub Version Control  
+## 🌐 Profiles
+
+<p align="center">
+  <a href="https://github.com/Shubham-Bhavar">GitHub</a> •
+  <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">HackerRank</a> •
+  <a href="https://leetcode.com/u/Shubham-Bhavar/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/shubhambhavar-/">LinkedIn</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bhavar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Bhavar&layout=compact)
-
----
-
-## 📂 Featured Repositories
-
-### ☕ Java LeetCode Solutions
-Collection of LeetCode problems solved in Java with optimized and well-structured solutions.
-
-### 💻 HackerRank Java Solutions
-Java solutions for HackerRank challenges covering data structures, algorithms, and problem-solving concepts.
-
-### 🗄️ MySQL Projects
-Database projects, SQL queries, and data analysis tasks demonstrating database management and query optimization skills.
-
----
-
-## 🌐 Coding Profiles
-
-- 🔗 GitHub: https://github.com/Shubham-Bhavar  
-- 🔗 HackerRank: https://www.hackerrank.com/profile/Shubham_Bhavar  
-- 🔗 LeetCode: https://leetcode.com/u/Shubham-Bhavar/  
-- 🔗 LinkedIn: https://www.linkedin.com/in/shubhambhavar-/  
-- 🔗 ORCID: https://orcid.org/0009-0001-1169-6512  
-
----
-
-## 📈 Goals
+## 🎯 Goals
 
 - Become a Full Stack Developer  
-- Master Data Structures & Algorithms  
-- Contribute to Open Source Projects  
-- Build Real-World Applications  
+- Strengthen Data Structures & Algorithms  
+- Build real-world impactful projects  
+- Contribute to Open Source  
 
 ---
 
-⭐ Always learning, building, and growing.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Building • Learning • Growing 🚀
+</p>
