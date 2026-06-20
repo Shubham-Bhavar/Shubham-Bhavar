@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | AI-Augmented Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Prompt+Engineering+Enthusiast;Building+with+AI&center=true&width=450&height=40&color=00F7FF&vCenter=true&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Prompt+Engineering+Enthusiast;Building+with+AI;Java+Developer&center=true&width=450&height=40&color=00F7FF&vCenter=true&pause=1000">
 </p>
 
 <p align="center">
