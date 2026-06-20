@@ -55,5 +55,5 @@
 
 ---
 <p align = "center">
-⭐ **Dream • Believe • Achieve** 🚀
+⭐ **Dream** • **Believe** • **Achieve** 🚀
 </p>
