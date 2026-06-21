@@ -53,6 +53,6 @@
 
 ---
 
-<p align="center">
+<p align="center"Fontstyle="Bold">
   🚀 Build • Learn • Repeat
 </p>
