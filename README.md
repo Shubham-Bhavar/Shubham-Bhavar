@@ -53,6 +53,4 @@
 
 ---
 
-<h4 align="center">
-  🚀 Build • Learn • Repeat
-</h4>
+<h3 align="center">🚀 Dream • Believe • Achieve</h3>
