@@ -55,4 +55,4 @@
 
 ---
 
-<h3 align="center">🚀 Dream • Believe • Achieve</h3>
+<h3 align="center">🎯 Dream • Believe • Achieve 🚀</h3>
