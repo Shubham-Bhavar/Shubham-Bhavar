@@ -5,11 +5,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student  
-- 💻 Interested in Software Development & Problem Solving
+- 🎓 Computer Engineering Student
+- 💻 Java Developer
+- 🚀 Interested in Software Development & Problem Solving
 - ⚡ AI Augmented Developer
-- ⚡ Exploring AI through Prompt Engineering
-- 🌱 Currently learning Full Stack Development & DSA   
+- 🌱 Currently learning Full Stack Development & DSA
+- ⚡ Exploring AI through Prompt Engineering   
 
 ---
 
