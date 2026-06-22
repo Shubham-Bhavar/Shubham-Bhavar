@@ -6,10 +6,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student  
-- 💻 Interested in Software Development & Problem Solving  
-- 🌱 Currently learning Full Stack Development & DSA  
+- 💻 Interested in Software Development & Problem Solving
+- ⚡ AI Augmented Developer
 - ⚡ Exploring AI through Prompt Engineering
-- ⚡ AI Augmented Developer 
+- 🌱 Currently learning Full Stack Development & DSA   
 
 ---
 
