@@ -8,10 +8,9 @@
 - 🎓 Computer Engineering Student
 - 💻 Java Developer
 - 🚀 Interested in Software Development & Problem Solving
-- ⚡ AI Augmented Developer
+- ⚡ AI Augmented Developer & Prompt Engineer
 - 🌱 Currently learning Full Stack Development & DSA
-- ⚡ Exploring AI through Prompt Engineering   
-
+  
 ---
 
 ## 🛠️ Skills
