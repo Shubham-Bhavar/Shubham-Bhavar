@@ -8,14 +8,16 @@
 - 🎓 Computer Engineering Student  
 - 💻 Interested in Software Development & Problem Solving  
 - 🌱 Currently learning Full Stack Development & DSA  
-- ⚡ Exploring AI through Prompt Engineering  
+- ⚡ Exploring AI through Prompt Engineering
+- ⚡ AI Augmented Developer 
 
 ---
 
 ## 🛠️ Skills
 
 - Java • MySQL • HTML • CSS • JavaScript  
-- Git & GitHub • C Programming  
+- Git & GitHub • C Programming
+- AI Augmented Developement 
 - Prompt Engineering  
 
 ---
