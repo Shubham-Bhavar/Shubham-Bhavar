@@ -141,22 +141,22 @@ AI-powered full stack cybersecurity system that detects scam links, phishing ads
 <p align="center">
 
 <a href="https://github.com/Shubham-Bhavar">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/Shubham_Bhavar">
-<img src="https://img.shields.io/badge/HackerRank-111?style=for-the-badge&logo=hackerrank&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00F7FF&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Shubham-Bhavar/">
-<img src="https://img.shields.io/badge/LeetCode-111?style=for-the-badge&logo=leetcode&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shubhambhavar-/">
-<img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/>
 </a>
 
 </p>
