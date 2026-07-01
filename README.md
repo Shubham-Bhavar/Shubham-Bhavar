@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F7FF,100:000000&height=200&section=header&text=Shubham%20Bhavar&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hello 👋, I'm Shubham Bhavar</h1>
+<h1 align="center">Hello 👋, I'm Shubham </h1>
 <h3 align="center">💻 Full Stack Developer | Java Backend | Building Scalable Systems 🚀</h3>
 
 <p align="center">
