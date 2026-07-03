@@ -158,7 +158,7 @@
 ## 🧠 Mindset
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Learn+📚;Build+🚀;Improve+🔥;Repeat+♻️&color=00F7FF&center=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Learn+📚;Build+🚀;Improve+🔥;Focused+🎯;Repeat+♻️&color=00F7FF&center=true"/>
 </p>
 
 <p align="center">
