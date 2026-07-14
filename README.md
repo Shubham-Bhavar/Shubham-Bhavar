@@ -73,14 +73,13 @@ Status   : Open to opportunities 🚀
 
 | # | Project | Description |
 |:---:|---|---|
-| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam and phishing detection |
-| 02 | ⚡ **Axon AI** | Modern AI landing page built with React and Vite |
-| 03 | 🧠 **Evidence Review** | AI-powered damage detection using multi-modal input |
-| 04 | 🎁 **GiftGenius** | Smart gift recommendation engine |
-| 05 | 💬 **QuoteVerse** | AI-based quote generation platform |
-| 06 | 💎 **Jewellery UI** | Responsive frontend UI with modern design |
-| 07 | 🔒 **Password Checker** | CLI-based password strength analyzer in C |
-
+| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection 🔹 Java 🔹 Spring 🔹 APIs |
+| 02 | ⚡ **Axon AI** | Modern AI landing page 🔹 React 🔹 Vite 🔹 CSS |
+| 03 | 🧠 **Evidence Review** | AI damage detection system 🔹 AI 🔹 Python 🔹 ML |
+| 04 | 🎁 **GiftGenius** | Smart recommendation engine 🔹 Java 🔹 DSA |
+| 05 | 💬 **QuoteVerse** | AI quote generator 🔹 JS 🔹 API 🔹 React |
+| 06 | 💎 **Jewellery UI** | Responsive UI design 🔹 HTML 🔹 CSS 🔹 JS |
+| 07 | 🔒 **Password Checker** | CLI password analyzer 🔹 C 🔹 Logic |
 </div>
 
 ---
