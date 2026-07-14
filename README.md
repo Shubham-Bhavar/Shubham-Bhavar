@@ -71,15 +71,15 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-| # | Project | Description |
+| # | Project | Description |Skills|
 |:---:|---|---|
-| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection 🔹 Java 🔹 Spring 🔹 APIs |
-| 02 | ⚡ **Axon AI** | Modern AI landing page 🔹 React 🔹 Vite 🔹 CSS |
-| 03 | 🧠 **Evidence Review** | AI damage detection system 🔹 AI 🔹 Python 🔹 ML |
-| 04 | 🎁 **GiftGenius** | Smart recommendation engine 🔹 Java 🔹 DSA |
-| 05 | 💬 **QuoteVerse** | AI quote generator 🔹 JS 🔹 API 🔹 React |
-| 06 | 💎 **Jewellery UI** | Responsive UI design 🔹 HTML 🔹 CSS 🔹 JS |
-| 07 | 🔒 **Password Checker** | CLI password analyzer 🔹 C 🔹 Logic |
+| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection |🔹 Java 🔹 Python 🔹 APIs |
+| 02 | ⚡ **Axon AI** | Modern AI landing page |🔹 React 🔹 Vite 🔹 CSS |
+| 03 | 🧠 **Evidence Review** | AI damage detection system |🔹 AI 🔹 Python 🔹 ML |
+| 04 | 🎁 **GiftGenius** | Smart recommendation engine |🔹 Java 🔹 DSA 🔹JS|
+| 05 | 💬 **QuoteVerse** | AI quote generator |🔹 JS 🔹 API 🔹 React |
+| 06 | 💎 **Jewellery UI** | Responsive UI design |🔹 HTML 🔹 CSS 🔹 JS |
+| 07 | 🔒 **Password Checker** | CLI password analyzer |🔹 C 🔹 Logic |
 </div>
 
 ---
