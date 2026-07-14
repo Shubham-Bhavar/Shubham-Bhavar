@@ -38,7 +38,7 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,c,js,html,css,react,git,github,vite&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,js,html,css,react,git,github,vite&theme=dark&perline=5"/>
 
 </div>
 
@@ -48,7 +48,7 @@ Status   : Open to opportunities 🚀
 
 | 🔹 Backend | 🔹 Frontend | 🔹 Core Skills | 🔹 Tools |
 |:---:|:---:|:---:|:---:|
-| Java · MySQL | JS · HTML · CSS · React · Vite | Java (Primary) · DSA · C++ (Practice) | Git · GitHub |
+| Java ● MySQL | JS ● HTML ● CSS ● React ● Vite | Java (Primary) ● DSA ● C++ (Practice) | Git ● GitHub |
 
 </div>
 
