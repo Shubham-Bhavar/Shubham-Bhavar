@@ -72,7 +72,7 @@ Status   : Open to opportunities 🚀
 <div align="center">
 
 | # | Project | Description |Skills|
-|:---:|---|---|
+|:---:|---|---|---|
 | 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection |🔹 Java 🔹 Python 🔹 APIs |
 | 02 | ⚡ **Axon AI** | Modern AI landing page |🔹 React 🔹 Vite 🔹 CSS |
 | 03 | 🧠 **Evidence Review** | AI damage detection system |🔹 AI 🔹 Python 🔹 ML |
