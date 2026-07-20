@@ -58,13 +58,9 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅_TechVerse_Frontend_Battle-Rank_4_%7C_Shortlisted-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
-
-<br/><br/>
-
-| 🥇 | Competition | Organizer | Result | Platform |
-|:---:|:---|:---|:---:|:---:|
-| 🏅 | **Frontend Battle** | TechVerse Solutions | 🎯 **Rank 4 · Shortlisted** | ![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF) |
+| # | 🥇 Competition | 🏢 Organizer | 🎯 Result | 🌐 Platform |
+|:---:|---|---|:---:|:---:|
+| 01 | **Frontend Battle** | TechVerse Solutions | Rank 4 · Shortlisted | ![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF) |
 
 </div>
 
@@ -105,7 +101,7 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Bhavar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Bhavar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117&cache_seconds=1800"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Shubham-Bhavar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 <br/><br/>
