@@ -58,13 +58,14 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅_TechVerse_Frontend_Battle-Rank_4_%7C_Shortlisted-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
+[![TECHVERSE FRONTEND BATTLE](https://img.shields.io/badge/🏅_TECHVERSE_FRONTEND_BATTLE-0D0D0D?style=for-the-badge&logoColor=00D9FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167)
+[![RANK 4 | SHORTLISTED](https://img.shields.io/badge/RANK_4_%7C_SHORTLISTED-00D9FF?style=for-the-badge&labelColor=0D0D0D)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167/case-submissions/813619)
 
 <br/><br/>
 
 | 🥇 | Competition | Organizer | Result | Platform |
 |:---:|:---|:---|:---:|:---:|
-| 🏅 | **Frontend Battle** | [![TechVerse Solutions](https://img.shields.io/badge/TechVerse_Solutions-0D0D0D?style=flat&logoColor=00F7FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) | [![Rank 4 · Shortlisted](https://img.shields.io/badge/Rank_4_·_Shortlisted-00F7FF?style=flat&labelColor=0D0D0D)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167/case-submissions/813619) | [![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) |
+| 🏅 | **Frontend Battle** | [![TechVerse Solutions](https://img.shields.io/badge/TechVerse_Solutions-0D0D0D?style=flat&logoColor=00D9FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) | [![Rank 4 · Shortlisted](https://img.shields.io/badge/Rank_4_·_Shortlisted-00D9FF?style=flat&labelColor=0D0D0D)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167/case-submissions/813619) | [![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00D9FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) |
 
 </div>
 
