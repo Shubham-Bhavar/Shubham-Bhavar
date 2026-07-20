@@ -54,6 +54,22 @@ Status   : Open to opportunities 🚀
 
 ---
 
+## 🏆 Achievements & Competitions
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏅_TechVerse_Frontend_Battle-Rank_4_%7C_Shortlisted-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
+
+<br/><br/>
+
+| 🥇 | Competition | Organizer | Result | Platform |
+|:---:|:---|:---|:---:|:---:|
+| 🏅 | **Frontend Battle** | TechVerse Solutions | 🎯 **Rank 4 · Shortlisted** | ![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF) |
+
+</div>
+
+---
+
 ## 🔐 Featured Project — ScamShield AI
 
 <div align="center">
@@ -71,15 +87,16 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-| # | Project | Description |Skills|
+| # | Project | Description | Skills |
 |:---:|---|---|---|
-| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection |🔹 Java 🔹 Python 🔹 APIs |
-| 02 | ⚡ **Axon AI** | Modern AI landing page |🔹 React 🔹 Vite 🔹 CSS |
-| 03 | 🧠 **Evidence Review** | AI damage detection system |🔹 AI 🔹 Python 🔹 ML |
-| 04 | 🎁 **GiftGenius** | Smart recommendation engine |🔹 Java 🔹 DSA 🔹JS|
-| 05 | 💬 **QuoteVerse** | AI quote generator |🔹 JS 🔹 API 🔹 React |
-| 06 | 💎 **Jewellery UI** | Responsive UI design |🔹 HTML 🔹 CSS 🔹 JS |
-| 07 | 🔒 **Password Checker** | CLI password analyzer |🔹 C 🔹 Logic |
+| 01 | 🔐 **ScamShield AI** | AI-based system for real-time scam detection | 🔹 Java 🔹 Python 🔹 APIs |
+| 02 | ⚡ **Axon AI** | Modern AI landing page | 🔹 React 🔹 Vite 🔹 CSS |
+| 03 | 🧠 **Evidence Review** | AI damage detection system | 🔹 AI 🔹 Python 🔹 ML |
+| 04 | 🎁 **GiftGenius** | Smart recommendation engine | 🔹 Java 🔹 DSA 🔹 JS |
+| 05 | 💬 **QuoteVerse** | AI quote generator | 🔹 JS 🔹 API 🔹 React |
+| 06 | 💎 **Jewellery UI** | Responsive UI design | 🔹 HTML 🔹 CSS 🔹 JS |
+| 07 | 🔒 **Password Checker** | CLI password analyzer | 🔹 C 🔹 Logic |
+
 </div>
 
 ---
