@@ -58,9 +58,13 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-| # | 🥇 Competition | 🏢 Organizer | 🎯 Result | 🌐 Platform |
-|:---:|---|---|:---:|:---:|
-| 01 | **Frontend Battle** | TechVerse Solutions | Rank 4 · Shortlisted | ![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF) |
+<img src="https://img.shields.io/badge/🏅_TechVerse_Frontend_Battle-Rank_4_%7C_Shortlisted-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
+
+<br/><br/>
+
+| 🥇 | Competition | Organizer | Result | Platform |
+|:---:|:---|:---|:---:|:---:|
+| 🏅 | **Frontend Battle** | [![TechVerse Solutions](https://img.shields.io/badge/TechVerse_Solutions-0D0D0D?style=flat&logoColor=00F7FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) | [![Rank 4 · Shortlisted](https://img.shields.io/badge/Rank_4_·_Shortlisted-00F7FF?style=flat&labelColor=0D0D0D)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167/case-submissions/813619) | [![Unstop](https://img.shields.io/badge/Unstop-0D0D0D?style=flat-square&logoColor=00F7FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167) |
 
 </div>
 
