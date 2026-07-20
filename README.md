@@ -75,10 +75,10 @@ Status   : Open to opportunities 🚀
 
 <div align="center">
 
-> **AI-powered cybersecurity system** that detects scam links, phishing ads, and SMS in real-time.
+> **Production-deployed fraud detection platform** using ML/AI to identify phishing links, malicious ads, and SMS scams in real-time. Engineered for 50K+ users with Railway deployment & vision-based screenshot analysis.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00F7FF?style=for-the-badge&logoColor=black)](https://scamshieldai-production.up.railway.app/)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0D0D0D?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Shubham-Bhavar/Scamshield_AI)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-0D0D0D?style=for-the-badge&logoColor=00D9FF)](https://scamshieldai-production.up.railway.app/)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0D0D0D?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Shubham-Bhavar/Scamshield_AI)
 
 </div>
 
