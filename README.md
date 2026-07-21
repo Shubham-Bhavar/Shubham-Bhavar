@@ -79,7 +79,9 @@ Status     : Open to Full-Time / Internship opportunities 🟢
 [![TECHVERSE FRONTEND BATTLE](https://img.shields.io/badge/🏅_TECHVERSE_FRONTEND_BATTLE-0A0E27?style=for-the-badge&logoColor=00D9FF)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167)
 [![RANK 4 | SHORTLISTED](https://img.shields.io/badge/RANK_4_%7C_SHORTLISTED-00D9FF?style=for-the-badge&labelColor=0A0E27)](https://unstop.com/hackathons/build-the-next-big-ui-techverse-solutions-1702167/case-submissions/813619)
 
-<br/><br/>
+**Secured 4th Rank among 1500+ participants** in a national-level frontend competition — *Build The Next Big UI (Unstop)*
+
+<br/>
 
 | 🥇 | Competition | Organizer | Result | Platform |
 |:---:|:---|:---|:---:|:---:|
