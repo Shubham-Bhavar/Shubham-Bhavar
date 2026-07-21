@@ -66,7 +66,7 @@ Status     : Open to Full-Time / Internship opportunities 🟢
 
 | 💼 Backend | 🎨 Frontend | 🧩 Core Skills | ⚙️ Tools |
 |:---:|:---:|:---:|:---:|
-| Java # MySQL | React # Vite # JS # HTML # CSS | Java (Primary) # DSA # C++ | Git # GitHub |
+| # Java # MySQL | # React # Vite # JS # HTML # CSS | # Java (Primary) # DSA # C++ | # Git # GitHub |
 
 </div>
 
