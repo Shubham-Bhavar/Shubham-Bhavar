@@ -130,7 +130,6 @@ Status     : Open to Full-Time / Internship opportunities 🟢
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Bhavar&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0A0E27&cache_seconds=1800"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Shubham-Bhavar&theme=tokyonight&hide_border=true&background=0A0E27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 <br/><br/>
