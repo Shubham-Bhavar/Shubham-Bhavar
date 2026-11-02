@@ -5,14 +5,12 @@
 <!-- Hero Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:00D9FF,100:0A0E27&height=240&section=header&text=SHUBHAM%20BHAVAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20Developer%20%7C%20Full%20Stack%20Architect&descAlignY=55&descSize=18&descColor=00D9FF" width="100%" alt="Shubham Bhavar Banner"/>
 
-<!-- Dynamic Animated Terminal Typing Console with GiftGenius Front & Center -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+%F0%9F%8E%81+GiftGenius+%E2%80%94+AI+Gift+Platform+(TechVerse+Battle+Rank+4);%E2%96%B6+%E2%9A%A1+Java+Backend+Engineer+%C2%B7+Spring+Boot+Architect;%E2%96%B6+%F0%9F%A5%88+HackerRank+Oct+2026+%E2%80%94+Silver+Medalist+(Rank+112+%2F+4%2C094);%E2%96%B6+%F0%9F%A4%96+HackerRank+Orchestrate+2026+%E2%80%94+Top+9%25+Finalist;%E2%96%B6+%F0%9F%A7%A0+Algorithmic+Problem+Solving+%C2%B7+DSA+Enthusiast;%E2%96%B6+%F0%9F%9A%80+Open+for+Backend+%26+Full-Stack+Opportunities" alt="Interactive Typing Console"/>
-</a>
+<!-- Dynamic Animated Terminal Typing Console with GiftGenius Front & Center (Non-Redirecting Text) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&lines=%E2%96%B6+%F0%9F%8E%81+GiftGenius+%E2%80%94+AI+Gift+Platform+(TechVerse+Battle+Rank+4);%E2%96%B6+%E2%9A%A1+Java+Backend+Engineer+%C2%B7+Spring+Boot+Architect;%E2%96%B6+%F0%9F%A5%88+HackerRank+Oct+2026+%E2%80%94+Silver+Medalist+(Rank+112+%2F+4%2C094);%E2%96%B6+%F0%9F%A4%96+HackerRank+Orchestrate+2026+%E2%80%94+Top+9%25+Finalist;%E2%96%B6+%F0%9F%A7%A0+Algorithmic+Problem+Solving+%C2%B7+C%2FC%2B%2B+%C2%B7+DSA+Enthusiast;%E2%96%B6+%F0%9F%9A%80+Open+for+Backend+%26+Full-Stack+Opportunities" alt="Interactive Typing Console"/>
 
 <br/>
 
-<!-- Social & Competitive Presence Badges -->
+<!-- Social & Verified Presence Badges -->
 <a href="https://www.linkedin.com/in/shubhambhavar-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -30,7 +28,7 @@
 </a>
 &nbsp;
 <a href="mailto:shubhambhavar108@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/shubhambhavar108@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email"/>
 </a>
 
 <br/><br/>
@@ -38,9 +36,9 @@
 <!-- System Telemetry Status & Live Counter -->
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00D9FF?style=flat-square&labelColor=0A0E27" alt="Status"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Shubham-Bhavar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
 <img src="https://img.shields.io/badge/FLAGSHIP-GIFTGENIUS-00D9FF?style=flat-square&labelColor=0A0E27" alt="Flagship GiftGenius"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Shubham-Bhavar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-INDIA-0A0E27?style=flat-square&logo=googlemaps&logoColor=00D9FF" alt="Location"/>
 
@@ -53,35 +51,32 @@
       <a href="#about"><img src="https://img.shields.io/badge/⚡_01_ABOUT-0A0E27?style=for-the-badge&logo=codeforces&logoColor=00D9FF" alt="About"/></a>&nbsp;
       <a href="#tech-matrix"><img src="https://img.shields.io/badge/🛠️_02_TECH_MATRIX-0A0E27?style=for-the-badge&logo=stackshare&logoColor=00D9FF" alt="Tech Matrix"/></a>&nbsp;
       <a href="#achievements"><img src="https://img.shields.io/badge/🏆_03_ACHIEVEMENTS-0A0E27?style=for-the-badge&logo=target&logoColor=00D9FF" alt="Achievements"/></a>&nbsp;
-      <a href="#flagship-projects"><img src="https://img.shields.io/badge/🚀_04_PROJECTS-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF" alt="Projects"/></a>&nbsp;
-      <a href="#analytics"><img src="https://img.shields.io/badge/📊_05_ANALYTICS-0A0E27?style=for-the-badge&logo=chartdotjs&logoColor=00D9FF" alt="Analytics"/></a>&nbsp;
-      <a href="#connect"><img src="https://img.shields.io/badge/📡_06_CONNECT-0A0E27?style=for-the-badge&logo=telegram&logoColor=00D9FF" alt="Connect"/></a>
+      <a href="#flagship-projects"><img src="https://img.shields.io/badge/🎁_04_GIFTGENIUS-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF" alt="GiftGenius"/></a>&nbsp;
+      <a href="#all-projects"><img src="https://img.shields.io/badge/📂_05_ALL_PROJECTS-0A0E27?style=for-the-badge&logo=git&logoColor=00D9FF" alt="All Projects"/></a>&nbsp;
+      <a href="#analytics"><img src="https://img.shields.io/badge/📊_06_ANALYTICS-0A0E27?style=for-the-badge&logo=chartdotjs&logoColor=00D9FF" alt="Analytics"/></a>&nbsp;
+      <a href="#connect"><img src="https://img.shields.io/badge/📡_07_CONNECT-0A0E27?style=for-the-badge&logo=telegram&logoColor=00D9FF" alt="Connect"/></a>
     </td>
   </tr>
 </table>
 
 </div>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="about"></a>
-
-<!-- Animated Section Header: About -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME%20%7C%20SYSTEM%20PHILOSOPHY&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## ⚡ 01 // About Me & Engineering Philosophy
 
 <table width="100%">
   <tr>
     <td bgcolor="#0A0E27" style="padding: 16px;">
-      <h3>⚡ System Architect & Backend Problem Solver</h3>
+      <h3>👨‍💻 System Architect & Backend Problem Solver</h3>
       <p>
-        I am a <b>Java Backend Engineer</b> and <b>Full Stack Developer</b> driven by building highly reliable enterprise systems, deterministic data pipelines, and responsive web applications. Creator of <b>GiftGenius</b> (Rank 4 / 1,500+ nationwide at TechVerse Frontend Battle), I specialize in designing client-side and backend architectures that combine algorithmic accuracy with seamless user experiences.
+        I am a <b>Java Backend Engineer</b> and <b>Full Stack Developer</b> passionate about building high-reliability enterprise systems, deterministic data pipelines, and responsive web applications. Creator of <b>GiftGenius</b> (Rank 4 / 1,500+ nationwide at TechVerse Frontend Battle), I specialize in designing client-side and backend architectures that combine algorithmic accuracy with seamless user experiences.
       </p>
       <ul>
         <li>🎁 <b>Flagship Web Intelligence</b>: Built <b>GiftGenius</b>, an intelligent gift recommendation platform with client-side multi-factor scoring vectors, responsive UI, and persistent state.</li>
         <li>☕ <b>Enterprise Backend Systems</b>: Architecting layered backend architectures using <b>Java</b>, <b>Spring Boot</b>, <b>Hibernate/JPA</b>, and <b>MySQL</b> with strict transaction isolation and RESTful design.</li>
+        <li>🧠 <b>Systems & Algorithmic Core</b>: Proficient in <b>C</b>, <b>C++</b>, and <b>Data Structures & Algorithms (DSA)</b>, applying time/space complexity analysis to eliminate performance bottlenecks.</li>
         <li>🎨 <b>High-Performance Full-Stack</b>: Coupling resilient backends with reactive client-side experiences using <b>React</b>, <b>Modern JavaScript (ES6+)</b>, and <b>Vite</b>.</li>
         <li>🤖 <b>Applied Deterministic AI</b>: Proven experience designing multi-modal systems where generative LLMs extract unstructured perception while deterministic engines enforce business rules and financial math.</li>
         <li>🏆 <b>Battle-Tested Execution</b>: National silver medalist and top-percentile finalist across multiple 24-hour hackathons and algorithmic competitions.</li>
@@ -96,26 +91,21 @@
 
 | 🎯 Primary Specialty | 🧩 Core Architecture Focus | 📌 Current Engineering Pursuit | 🟢 Open Collaboration |
 | :--- | :--- | :--- | :--- |
-| **Java Backend Engineer**<br/>Full Stack Developer | Java · Spring Boot<br/>MySQL · DSA · REST APIs | Microservices Architecture<br/>Distributed Systems & Scalability | Full-Time Backend / Full-Stack Roles<br/>Software Engineering Internships |
+| **Java Backend Engineer**<br/>Full Stack Developer | Java · Spring Boot<br/>MySQL · DSA · C / C++ · REST APIs | Microservices Architecture<br/>Distributed Systems & Scalability | Full-Time Backend / Full-Stack Roles<br/>Software Engineering Internships |
 
 </div>
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="tech-matrix"></a>
-
-<!-- Animated Section Header: Tech Stack -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20MATRIX%20%7C%20ENGINEERING%20ARSENAL&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 🛠️ 02 // Tech Matrix & Engineering Arsenal
 
 <div align="center">
 
-<!-- Visual Skill Icons Bar -->
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,cpp,python,js,html,css,react,vite,git,github,maven,postman,linux&theme=dark&perline=8" alt="Tech Stack Icons"/>
+<!-- Visual Skill Icons Bar (Updated with C, C++, Java, Spring, MySQL, etc.) -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,mysql,python,js,html,css,react,vite,git,github,maven,postman,linux&theme=dark&perline=8" alt="Tech Stack Icons"/>
 
 <br/><br/>
 
@@ -131,9 +121,20 @@
         <br/>
         <img src="https://img.shields.io/badge/Hibernate_JPA-0A0E27?style=for-the-badge&logo=hibernate&logoColor=00D9FF"/>
         <img src="https://img.shields.io/badge/RESTful_APIs-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/C++_17-0A0E27?style=for-the-badge&logo=cplusplus&logoColor=00D9FF"/>
       </p>
     </td>
+    <td width="50%" valign="top" bgcolor="#0A0E27">
+      <h4 align="center">🧠 CORE CS & SYSTEMS PROGRAMMING</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C_Language-0A0E27?style=for-the-badge&logo=c&logoColor=00D9FF"/>
+        <img src="https://img.shields.io/badge/C++_17-0A0E27?style=for-the-badge&logo=cplusplus&logoColor=00D9FF"/>
+        <br/>
+        <img src="https://img.shields.io/badge/DSA_Excellence-0A0E27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+        <img src="https://img.shields.io/badge/OOP_Design-0A0E27?style=for-the-badge&logo=diagramsdotnet&logoColor=00D9FF"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" bgcolor="#0A0E27">
       <h4 align="center">🗄️ DATA ARCHITECTURE & PERSISTENCE</h4>
       <p align="center">
@@ -144,8 +145,6 @@
         <img src="https://img.shields.io/badge/Query_Optimization-0A0E27?style=for-the-badge&logo=oracle&logoColor=00D9FF"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" bgcolor="#0A0E27">
       <h4 align="center">🎨 REACT & FRONTEND ENGINEERING</h4>
       <p align="center">
@@ -154,9 +153,10 @@
         <br/>
         <img src="https://img.shields.io/badge/Vite-0A0E27?style=for-the-badge&logo=vite&logoColor=00D9FF"/>
         <img src="https://img.shields.io/badge/HTML5_&_CSS3-0A0E27?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Responsive_UI-0A0E27?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" bgcolor="#0A0E27">
       <h4 align="center">🤖 APPLIED AI & DETERMINISTIC PIPELINES</h4>
       <p align="center">
@@ -165,18 +165,6 @@
         <br/>
         <img src="https://img.shields.io/badge/Vision_LLMs-0A0E27?style=for-the-badge&logo=anthropic&logoColor=00D9FF"/>
         <img src="https://img.shields.io/badge/Pandas_Data_Core-0A0E27?style=for-the-badge&logo=pandas&logoColor=00D9FF"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🧠 CORE CS & PROBLEM SOLVING</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/DSA_Excellence-0A0E27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-        <img src="https://img.shields.io/badge/OOP_Design-0A0E27?style=for-the-badge&logo=diagramsdotnet&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/System_Design-0A0E27?style=for-the-badge&logo=thealgorithms&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Time_Complexity_Analysis-0A0E27?style=for-the-badge&logo=counterstrike&logoColor=00D9FF"/>
       </p>
     </td>
     <td width="50%" valign="top" bgcolor="#0A0E27">
@@ -201,27 +189,22 @@
   <br/>
 
   - **Strict Perception/Computation Decoupling**: In agentic AI systems, language models are strictly restricted to parsing unstructured inputs (payslips, receipts, intent classification). All numerical calculations, balances, and state transitions are handled by deterministic Java/Python engines.
+  - **Systems Programming Foundation**: Leveraging low-level insights from **C and C++** for memory management, pointer manipulation, and caching efficiency when architecting high-throughput Java backends.
   - **Layered Clean Architecture**: Strict separation of concerns (Controller → Service → Repository → Persistence Model) ensuring zero database coupling in service layers.
   - **Fail-Soft Media Processing**: Media decoding and audio transcription pipelines are built with circuit breakers, returning empty context rather than crashing execution threads.
-  - **Algorithmic Defense**: Zero reliance on naive $O(N^2)$ lookups when processing high-volume event streams; utilizing hash sets, dynamic programming, and indexing.
 
 </details>
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="achievements"></a>
-
-<!-- Animated Section Header: Achievements -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%8F%86%20HALL%20OF%20FAME%20%7C%20COMPETITIVE%20MILESTONES&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 🏆 03 // Hall of Fame & Competitive Milestones
 
 <div align="center">
 
-<!-- Interactive 3-Card Glassmorphism Trophy Showcase: TechVerse (GiftGenius) in Spotlight -->
+<!-- Interactive 3-Card Glassmorphism Trophy Showcase: GiftGenius / TechVerse in Spotlight Position #1 -->
 <table width="100%" border="0" cellspacing="8" cellpadding="0">
   <tr>
     <!-- TechVerse Battle Rank 4 (GIFTGENIUS FIRST) -->
@@ -302,15 +285,10 @@
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="flagship-projects"></a>
-
-<!-- Animated Section Header: Flagship Projects -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%E2%AD%90%20FLAGSHIP%20SYSTEMS%20%26%20PROJECT%20BLUEPRINTS&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 🚀 04 // Flagship Systems & Project Blueprints
 
 <!-- PROJECT 01 CARD: GIFTGENIUS FIRST -->
 <table width="100%">
@@ -498,15 +476,10 @@
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="all-projects"></a>
-
-<!-- Animated Section Header: All Projects -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%93%82%20COMPLETE%20PROJECT%20REGISTRY&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 📂 05 // Complete Project Registry
 
 <div align="center">
 
@@ -569,15 +542,10 @@
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="analytics"></a>
-
-<!-- Animated Section Header: Analytics -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%93%8A%20ENGINEERING%20ANALYTICS%20%26%20METRICS&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 📊 06 // Engineering Analytics & Activity
 
 <div align="center">
 
@@ -605,36 +573,31 @@
 
 <p align="right"><a href="#top">▲ Back to top</a></p>
 
-<!-- Animated Section Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E27,50:00D9FF,100:0A0E27&height=4&animation=twinkling" width="100%"/>
+---
 
 <a id="connect"></a>
-
-<!-- Animated Section Header: Connect -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,50:00D9FF,100:0A0E27&height=45&text=%F0%9F%93%A1%20COMMUNICATION%20CHANNELS%20%7C%20LET'S%20CONNECT&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
+## 📡 07 // Communication Channels & Let's Connect
 
 <div align="center">
 
 <p style="font-size: 16px;">
   I am actively exploring <b>Java Backend Engineering</b>, <b>Spring Boot</b>, and <b>Full Stack Developer</b> opportunities.<br/>
-  Let's connect regarding engineering roles, innovative systems, or technical collaborations!
+  Feel free to reach out via email or LinkedIn for engineering discussions, roles, or collaborations!
 </p>
 
 <br/>
 
-<!-- Interactive High-Contrast Direct Action Badges -->
+<!-- Direct Interactive Contact Badges with Explicit Email -->
+<a href="mailto:shubhambhavar108@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shubhambhavar108@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: shubhambhavar108@gmail.com"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shubhambhavar-/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/Shubham-Bhavar" target="_blank">
-  <img src="https://img.shields.io/badge/Explore_GitHub_Repos-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:shubhambhavar108@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_Repos-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
 </a>
 
 <br/><br/>
