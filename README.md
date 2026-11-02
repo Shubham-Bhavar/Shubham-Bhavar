@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/HackerRank-0A0E27?style=for-the-badge&logo=hackerrank&logoColor=00D9FF" alt="HackerRank"/>
 </a>
 &nbsp;
-<a href="mailto:shubhambhavar108@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shubhambhavar108@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -600,7 +600,7 @@
 <br/>
 
 <!-- Direct Interactive Contact Badges -->
-<a href="mailto:shubhambhavar108@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shubhambhavar108@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
