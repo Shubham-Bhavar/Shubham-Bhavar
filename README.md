@@ -28,7 +28,7 @@
 </a>
 &nbsp;
 <a href="mailto:shubhambhavar108@gmail.com">
-  <img src="https://img.shields.io/badge/shubhambhavar108@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -40,7 +40,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Shubham-Bhavar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-INDIA-0A0E27?style=flat-square&logo=googlemaps&logoColor=00D9FF" alt="Location"/>
+<img src="https://img.shields.io/badge/LOCATION-MAHARASHTRA,_INDIA-0A0E27?style=flat-square&logo=googlemaps&logoColor=00D9FF" alt="Location: Maharashtra, India"/>
 
 <br/><br/>
 
@@ -104,78 +104,90 @@
 
 <div align="center">
 
-<!-- Visual Skill Icons Bar (Updated with C, C++, Java, Spring, MySQL, etc.) -->
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,mysql,python,js,html,css,react,vite,git,github,maven,postman,linux&theme=dark&perline=8" alt="Tech Stack Icons"/>
+<!-- Visual Skill Icons Bar with Primary Priority: Java, Spring, MySQL, Git, GitHub, DSA -->
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,cpp,c,python,react,vite,js,html,css,maven,postman,linux&theme=dark&perline=8" alt="Tech Stack Icons"/>
 
 <br/><br/>
 
-<!-- Categorized Command Center Badges -->
-<table width="100%">
+<!-- PRIMARY TIER 1 CARDS: CORE BACKEND, DATA, VCS & DSA PILLARS -->
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">☕ ENTERPRISE BACKEND & CORE</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java_21-0A0E27?style=for-the-badge&logo=openjdk&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Spring_Boot_3-0A0E27?style=for-the-badge&logo=springboot&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Spring_Core-0A0E27?style=for-the-badge&logo=spring&logoColor=00D9FF"/>
-        <br/>
+    <!-- CARD 1: JAVA & SPRING BOOT (PRIMARY PREFERENCE) -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 2px solid #00D9FF; border-radius: 8px; padding: 16px;">
+      <img src="https://img.shields.io/badge/PRIORITY_01-CORE_BACKEND-00D9FF?style=flat-square&labelColor=0A0E27" alt="Priority 01"/><br/>
+      <h3>☕ Java & Spring Boot</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-0A0E27?style=for-the-badge&logo=openjdk&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-0A0E27?style=for-the-badge&logo=springboot&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Spring_Core-0A0E27?style=for-the-badge&logo=spring&logoColor=00D9FF"/><br/>
         <img src="https://img.shields.io/badge/Hibernate_JPA-0A0E27?style=for-the-badge&logo=hibernate&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/RESTful_APIs-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
       </p>
+      <sub>Layered Enterprise Architecture · RESTful APIs · Microservices</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🧠 CORE CS & SYSTEMS PROGRAMMING</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C_Language-0A0E27?style=for-the-badge&logo=c&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/C++_17-0A0E27?style=for-the-badge&logo=cplusplus&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/DSA_Excellence-0A0E27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-        <img src="https://img.shields.io/badge/OOP_Design-0A0E27?style=for-the-badge&logo=diagramsdotnet&logoColor=00D9FF"/>
+    <!-- CARD 2: MYSQL & GIT / GITHUB (PRIMARY PREFERENCE) -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 2px solid #00D9FF; border-radius: 8px; padding: 16px;">
+      <img src="https://img.shields.io/badge/PRIORITY_02-DATA_&_VCS-00D9FF?style=flat-square&labelColor=0A0E27" alt="Priority 02"/><br/>
+      <h3>🗄️ MySQL & Git / GitHub</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL_8-0A0E27?style=for-the-badge&logo=mysql&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Relational_Schema-0A0E27?style=for-the-badge&logo=databricks&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF"/>
       </p>
+      <sub>ACID Transactions · Query Tuning · Branching & Production CI/CD</sub>
+    </td>
+    <!-- CARD 3: DATA STRUCTURES & ALGORITHMS (PRIMARY PREFERENCE) -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 2px solid #00D9FF; border-radius: 8px; padding: 16px;">
+      <img src="https://img.shields.io/badge/PRIORITY_03-ALGORITHMIC_CORE-00D9FF?style=flat-square&labelColor=0A0E27" alt="Priority 03"/><br/>
+      <h3>🧠 Data Structures & Algorithms</h3>
+      <p>
+        <img src="https://img.shields.io/badge/DSA_Excellence-0A0E27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/><br/>
+        <img src="https://img.shields.io/badge/Time_Complexity_Analysis-0A0E27?style=for-the-badge&logo=counterstrike&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/C++_17-0A0E27?style=for-the-badge&logo=cplusplus&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/C_Language-0A0E27?style=for-the-badge&logo=c&logoColor=00D9FF"/>
+      </p>
+      <sub>Optimal Data Structures · Dynamic Programming · Competitive Problem Solving</sub>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<!-- SECONDARY TIER CARDS: FRONTEND, AI PIPELINES & DEV TOOLING -->
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🗄️ DATA ARCHITECTURE & PERSISTENCE</h4>
+    <!-- CARD 4: REACT & FRONTEND ARCHITECTURE -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 1px solid #1E293B; border-radius: 8px; padding: 14px;">
+      <h4 align="center">🎨 REACT & FRONTEND</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/MySQL_8-0A0E27?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Relational_Schema-0A0E27?style=for-the-badge&logo=databricks&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/ACID_Transactions-0A0E27?style=for-the-badge&logo=sqlite&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Query_Optimization-0A0E27?style=for-the-badge&logo=oracle&logoColor=00D9FF"/>
-      </p>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🎨 REACT & FRONTEND ENGINEERING</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_18-0A0E27?style=for-the-badge&logo=react&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-0A0E27?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Vite-0A0E27?style=for-the-badge&logo=vite&logoColor=00D9FF"/>
+        <img src="https://img.shields.io/badge/React_18-0A0E27?style=for-the-badge&logo=react&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Vite-0A0E27?style=for-the-badge&logo=vite&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-0A0E27?style=for-the-badge&logo=javascript&logoColor=00D9FF"/><br/>
         <img src="https://img.shields.io/badge/HTML5_&_CSS3-0A0E27?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
       </p>
+      <sub>Component Hierarchies · Responsive Design · State Management</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🤖 APPLIED AI & DETERMINISTIC PIPELINES</h4>
+    <!-- CARD 5: APPLIED AI & DETERMINISTIC PIPELINES -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 1px solid #1E293B; border-radius: 8px; padding: 14px;">
+      <h4 align="center">🤖 APPLIED AI & SYSTEMS</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python_3.12-0A0E27?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Agentic_AI-0A0E27?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Vision_LLMs-0A0E27?style=for-the-badge&logo=anthropic&logoColor=00D9FF"/>
+        <img src="https://img.shields.io/badge/Python_3.12-0A0E27?style=for-the-badge&logo=python&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Agentic_AI-0A0E27?style=for-the-badge&logo=openai&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Vision_LLMs-0A0E27?style=for-the-badge&logo=anthropic&logoColor=00D9FF"/><br/>
         <img src="https://img.shields.io/badge/Pandas_Data_Core-0A0E27?style=for-the-badge&logo=pandas&logoColor=00D9FF"/>
       </p>
+      <sub>Multimodal Extraction · Whisper Audio · Deterministic Safeguards</sub>
     </td>
-    <td width="50%" valign="top" bgcolor="#0A0E27">
-      <h4 align="center">🔧 DEVOPS, TOOLING & ENVIRONMENT</h4>
+    <!-- CARD 6: TOOLING, BUILD & ENVIRONMENT -->
+    <td width="33%" align="center" bgcolor="#0A0E27" style="border: 1px solid #1E293B; border-radius: 8px; padding: 14px;">
+      <h4 align="center">🔧 BUILD & DEVOPS</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Git_&_GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Apache_Maven-0A0E27?style=for-the-badge&logo=apachemaven&logoColor=00D9FF"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=00D9FF"/>
-        <img src="https://img.shields.io/badge/Linux_CLI-0A0E27?style=for-the-badge&logo=linux&logoColor=00D9FF"/>
+        <img src="https://img.shields.io/badge/Apache_Maven-0A0E27?style=for-the-badge&logo=apachemaven&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/Linux_CLI-0A0E27?style=for-the-badge&logo=linux&logoColor=00D9FF"/><br/>
+        <img src="https://img.shields.io/badge/REST_Testing-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
       </p>
+      <sub>API Verification · Dependency Management · Automation</sub>
     </td>
   </tr>
 </table>
@@ -587,9 +599,9 @@
 
 <br/>
 
-<!-- Direct Interactive Contact Badges with Explicit Email -->
+<!-- Direct Interactive Contact Badges -->
 <a href="mailto:shubhambhavar108@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shubhambhavar108@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: shubhambhavar108@gmail.com"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shubhambhavar-/" target="_blank">
